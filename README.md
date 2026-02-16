@@ -1,6 +1,6 @@
-# Radiocarbon dating of Persoonia arborea
+# Radiocarbon dating of *Persoonia arborea*
 
-This repository contains R scripts and data to reproduce the analyses and figures from the manuscript "Dendroecology and radiocarbon show pulse recruitment after fire and persistence under logging in Persoonia arborea".
+This repository contains R scripts and data to reproduce the analyses and figures from the manuscript "Dendroecology and radiocarbon show pulse recruitment after fire and persistence under logging in *Persoonia arborea*".
 
 ## R scripts
 
@@ -61,3 +61,4 @@ R version 4.1 or higher with packages:
 - data.table
 
 - viridis
+
