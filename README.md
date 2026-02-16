@@ -59,4 +59,5 @@ R version 4.1 or higher with packages:
 - minpack.lm
 - gsl
 - data.table
+
 - viridis
